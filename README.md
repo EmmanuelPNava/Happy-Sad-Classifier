@@ -1,2 +1,2 @@
-# Happy-Sad-Classifier
-This project was awesome! 
+# Happy Sad Classifier
+Welcome to this awesome project! This repository contains the implementation of a deep learning model designed to distinguish between happy and sad facial expressions in images. By leveraging the power of convolutional neural networks (CNNs), this project aims to accurately classify images based on the emotional expressions they contain, providing a useful tool for various applications in emotion recognition and analysis.
